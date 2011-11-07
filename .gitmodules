@@ -1,3 +1,6 @@
 [submodule "Frameworks/KIF"]
 	path = Frameworks/KIF
 	url = git://github.com/square/KIF.git
+[submodule "kiwi"]
+	path = kiwi
+	url = git://github.com/allending/Kiwi.git
